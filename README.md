@@ -1,1 +1,1 @@
-# Statistics-For-Data-Science-Beginners
+# some important topics of Statistics-For-Data-Science-Beginners
